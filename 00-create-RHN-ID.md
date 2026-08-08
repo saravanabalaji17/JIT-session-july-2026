@@ -126,6 +126,12 @@ Red Hat Account / RHN Login Ready
 
 
 
+
+
+
+------
+
+
 # Steps to Create a Red Hat Account and RHN ID
 
 Dear Students,
